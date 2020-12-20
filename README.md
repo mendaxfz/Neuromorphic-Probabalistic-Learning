@@ -16,5 +16,6 @@ Several learning rate functions were experimented with:
 <img src="img/FP-PCM.png" height="400">
 
 ## Evaluation
-
+* The exponentially decaying learning rate was the best performer.
+* Cyclic learning rates help if time is a contraint!
 <img src="img/LR.png">
